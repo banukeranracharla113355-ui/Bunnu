@@ -1,0 +1,4 @@
+aiohttp
+qrcode[pil]
+python-telegram-bot>=20,<22
+telethon
